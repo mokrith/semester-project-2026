@@ -133,19 +133,19 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Jingr33>
-            <img src=https://avatars.githubusercontent.com/u/173592834?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jiří Ingr/>
+        <a href=https://github.com/mokrith>
+            <img src=https://avatars.githubusercontent.com/u/158511077?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mokrith/>
             <br />
-            <sub style="font-size:14px"><b>Jiří Ingr</b></sub>
+            <sub style="font-size:14px"><b>mokrith</b></sub>
         </a>
     </td>
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/mokrith>
-            <img src=https://avatars.githubusercontent.com/u/158511077?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mokrith/>
+        <a href=https://github.com/Jingr33>
+            <img src=https://avatars.githubusercontent.com/u/173592834?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jiří Ingr/>
             <br />
-            <sub style="font-size:14px"><b>mokrith</b></sub>
+            <sub style="font-size:14px"><b>Jiří Ingr</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
